@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "arcane:block/arcane_stone_bricks_slab"
+    },
+    "type=top": {
+      "model": "arcane:block/arcane_stone_bricks_slab_top"
+    },
+    "type=double": {
+      "model": "arcane:block/arcane_stone_bricks"
+    }
+  }
+}

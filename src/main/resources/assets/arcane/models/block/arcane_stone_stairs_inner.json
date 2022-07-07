@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "arcane:block/arcane_stone",
+    "top": "arcane:block/arcane_stone",
+    "side": "arcane:block/arcane_stone"
+  }
+}

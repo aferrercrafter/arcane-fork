@@ -1,0 +1,22 @@
+{
+  "multipart": [
+    {   "when": { "up": "true" },
+      "apply": { "model": "arcane:block/arcane_stone_bricks_wall_post" }
+    },
+    {   "when": { "north": "low" },
+      "apply": { "model": "arcane:block/arcane_stone_bricks_wall_side", "uvlock": true }
+    },
+    {   "when": { "east": "low" },
+      "apply": { "model": "arcane:block/arcane_stone_bricks_wall_side", "y": 90, "uvlock": true }
+    },
+    {   "when": { "south": "low" },
+      "apply": { "model": "arcane:block/arcane_stone_bricks_wall_side", "y": 180, "uvlock": true }
+    },
+    {   "when": { "west": "low" },
+      "apply": { "model": "arcane:block/arcane_stone_bricks_wall_side", "y": 270, "uvlock": true }
+    },
+    {   "when": { "east": "low", "north": "low", "south": "low" , "up": "true", "waterlogged": "false","west": "none"},
+      "apply": { "model": "arcane:block/arcane_stone_bricks_wall_post" }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "arcane:arcane_stone"
+    }
+  },
+  "result": {
+    "item": "arcane:arcane_stone_slab",
+    "count": 6
+  }
+}

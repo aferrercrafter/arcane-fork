@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "arcane:arcane_stone"
+  },
+  "result": "arcane:arcane_stone_stairs",
+  "count": 1
+}

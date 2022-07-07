@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "arcane:block/arcane_stone_bricks",
+    "top": "arcane:block/arcane_stone_bricks",
+    "side": "arcane:block/arcane_stone_bricks"
+  }
+}

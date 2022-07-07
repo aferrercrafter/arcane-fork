@@ -1,0 +1,20 @@
+{
+    "_comment": "Creative Tabs",
+    "itemGroup.arcane": "Arcane",
+
+    "_comment": "Arcane Tools & Weapons",
+    "item.arcane.arcanium_sword": "Arcanium Sword",
+
+    "_comment": "Arcane Blocks",
+    "block.arcane.arcane_stone": "Arcane Stone",
+    "block.arcane.arcane_stone_slab": "Arcane Stone Slab",
+    "block.arcane.arcane_stone_stairs": "Arcane Stone Stairs",
+    "block.arcane.arcane_stone_pressure_plate": "Arcane Stone Pressure Plate",
+    "block.arcane.arcane_stone_wall": "Arcane Stone Wall",
+
+    "block.arcane.arcane_stone_bricks": "Arcane Stone Bricks",
+    "block.arcane.arcane_stone_bricks_slab": "Arcane Stone Brick Slab",
+    "block.arcane.arcane_stone_bricks_stairs": "Arcane Stone Brick Stairs",
+    "block.arcane.arcane_stone_bricks_pressure_plate": "Arcane Stone Brick Pressure Plate",
+    "block.arcane.arcane_stone_bricks_wall": "Arcane Stone Brick Wall"
+}
